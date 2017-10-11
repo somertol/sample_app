@@ -16,7 +16,7 @@ group :test do
   gem 'selenium-webdriver'
   gem 'capybara'
 end
-
+gem 'bootstrap-sass'
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
